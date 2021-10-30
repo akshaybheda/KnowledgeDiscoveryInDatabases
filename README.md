@@ -10,7 +10,8 @@ The CRISP-DM process begins with business and data understanding, and then moves
 Our research Question is **"Did Vaccination help in reducing Covid cases?"**
 
 ## Data source link
-https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+* https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+* https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
 
 ## Getting Started
 
