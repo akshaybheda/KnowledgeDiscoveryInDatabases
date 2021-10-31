@@ -13,6 +13,9 @@ Our research Question is **"Did Vaccination help in reducing Covid cases?"**
 * https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
 * https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
 
+## Future Work
+* Join 2 Datasets(Most likely)
+* Apply CRISP-DM to Dataset
 ## Getting Started
 
 ### Dependencies
