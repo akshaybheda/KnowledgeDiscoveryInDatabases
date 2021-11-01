@@ -35,4 +35,4 @@ Contributors names and contact info
 2. Rama Koti Reddy Bhavanam
 3. Simran Bolla
 4. Surya Teja Adusumalli
-5. Gowri Alwarsamy
+5. Veera Venkata Sai Borra
