@@ -36,3 +36,4 @@ Contributors names and contact info
 3. Simran Bolla
 4. Surya Teja Adusumalli
 5. Veera Venkata Sai Borra
+6. Kavya Chigurupati
